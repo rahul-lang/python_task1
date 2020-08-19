@@ -37,6 +37,7 @@ Step 4: The menu listing with its applications execution is shown below in form 
 -----------------------------------------**Exit from MENU**------------------------------
 
 Step 5: With each exiting from sub-menu the control moves back to original menu.
+
 Step 6: Pyttsx3 module speaks out the instructions from time to time.
 
 
