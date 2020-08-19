@@ -98,5 +98,6 @@ while True:
              print("Wrong choice!!Select from input above")
     elif("exit" in choice)or("5"in choice):
          pyttsx3.speak("Exiting!!Have a nice day")
+	 print("Have a nice day")
          quit()
 
